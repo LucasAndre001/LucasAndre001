@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**LucasAndre001/LucasAndre001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Lucas, curso **Análise e Desenvolvimento de Sistemas** na faculdade Projeção.
 
-Here are some ideas to get you started:
+Atualmente trabalho como Suporte NII. Tenho interesse na área de **desenvolvimento** e busco uma oportunidade de estágio! :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+
+Essas são as tecnologias que mais utilizo e estudo sobre.
+
+Backend: 
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+Frontend:
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,angular" />
+</p>
+
+Database:
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+Ferramentas:
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" />
+</p>
