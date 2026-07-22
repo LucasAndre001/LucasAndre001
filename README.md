@@ -39,4 +39,4 @@ Tenho a oportunidade de contribuir com projetos desenvolvidos em conjunto por me
 </p>
 
 **[FAB UniProjeção Taguatinga](https://github.com/fabuniprojecaotag)**  
-Organização dedicada ao desenvolvimento de projetos colaborativos e à troca de conhecimento entre estudantes da Faculdade Projeção.
+Organização da Faculdade Projeção dedicada ao desenvolvimento de projetos reais, proporcionando experiência prática em desenvolvimento de software, colaboração em equipe e uso de tecnologias do mercado.
